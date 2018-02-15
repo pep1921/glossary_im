@@ -648,6 +648,11 @@ INSERT_UPDATE CMSParagraphComponent;$contentCV[unique=true];uid[unique=true];nam
 ;;""
 ;;""
 
+;;KingpinComponent;Kingpin Component;KingpinComponent;"<div class='cont_23881 week-10'><p class='a1_23881 item_listing_box_23881'><span class='bold_23881'>Kingpin</span><br> The kingpin is the main pivot in the steering mechanism of a heavy truck. It usually consists of a machined steel bolt, washers, bearings and seals. </p><!------><div class='a1_hover_23881 item_listing_box_hover_23881' style='display: none;'><figure class='figuresettings_23881' id='suspension_23881'></figure><div id='vdivide_23881'></div><div id='checkout_23881'><span class='red_23881'>Check Out</span><br> Kingpin<br></div><div id='btn_box_23881'><a href='$storefrontContextRoot/c/1224' class='btn_23881'>VIEW ITEM</a></div><div class='clear_23881'></div></div></div>"
+
+
+
+
 
 ;;KingpinComponent;Kingpin Component;KingpinComponent;"<div class='cont_23881 week-10'><p class='a1_23881 item_listing_box_23881'><span class='bold_23881'>Kingpin</span><br> The kingpin is the main pivot in the steering mechanism of a heavy truck. It usually consists of a machined steel bolt, washers, bearings and seals. </p><!------><div class='a1_hover_23881 item_listing_box_hover_23881' style='display: none;'><figure class='figuresettings_23881' id='suspension_23881'></figure><div id='vdivide_23881'></div><div id='checkout_23881'><span class='red_23881'>Check Out</span><br> Kingpin<br></div><div id='btn_box_23881'><a href='$storefrontContextRoot/c/1224' class='btn_23881'>VIEW ITEM</a></div><div class='clear_23881'></div></div></div>"
 
